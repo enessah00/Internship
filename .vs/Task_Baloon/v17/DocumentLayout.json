@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes\\Documents\\Unreal Projects\\Task_Baloon\\Source\\Task_Baloon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enes\\Documents\\Unreal Projects\\Task_Baloon\\Source\\Task_Baloon\\target.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:target.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enes\\Documents\\Unreal Projects\\Task_Baloon\\Source\\Task_Baloon\\target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:target.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "target.h",
+              "DocumentMoniker": "C:\\Users\\Enes\\Documents\\Unreal Projects\\Task_Baloon\\Source\\Task_Baloon\\target.h",
+              "RelativeDocumentMoniker": "target.h",
+              "ToolTip": "C:\\Users\\Enes\\Documents\\Unreal Projects\\Task_Baloon\\Source\\Task_Baloon\\target.h",
+              "RelativeToolTip": "target.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-28T12:02:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "target.cpp",
+              "DocumentMoniker": "C:\\Users\\Enes\\Documents\\Unreal Projects\\Task_Baloon\\Source\\Task_Baloon\\target.cpp",
+              "RelativeDocumentMoniker": "target.cpp",
+              "ToolTip": "C:\\Users\\Enes\\Documents\\Unreal Projects\\Task_Baloon\\Source\\Task_Baloon\\target.cpp",
+              "RelativeToolTip": "target.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T12:02:46.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
